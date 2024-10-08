@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4914f34245226714cb2b327101bb9299
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - fireShield: {fileID: 1134129239631916, guid: 7e48ba6b1b968764490bbc70b66e3fe1,
+      type: 3}
+  - win: {instanceID: 0}
+  - death: {instanceID: 0}
+  - idestory: {instanceID: 0}
+  - destory: {instanceID: 0}
+  - bounce: {instanceID: 0}
+  - InvictableSlider: {instanceID: 0}
+  - InvictableOBJ: {instanceID: 0}
+  - gameOverUI: {instanceID: 0}
+  - finishUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
